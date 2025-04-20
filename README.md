@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Stas
-### 🌱 Developer | 👨‍💻 AI Builder | 🌍 Renewable Energy Innovator
+### 👨‍💻 Developer | 🤖 AI Builder | 🌍 Renewable Energy Innovator
 
 🚀 I’m building an AI-driven platform giving **superpowers to renewable energy players** 🌍⚡  
 It helps developers, investors, and engineers **do market research faster**, get **real-time insights**, and **build better renewable energy projects** 10x easier with AI.
