@@ -31,8 +31,7 @@ It helps developers, investors, and engineers **do market research faster**, get
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/stanislav-masevych-a123a638/)   
 ✉️ Drop me a message if you're working on AI, renewable energy, or want to collaborate!
 
 <!--
